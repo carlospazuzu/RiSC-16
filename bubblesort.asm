@@ -51,8 +51,8 @@ fim:        movi 7,0
 msb:        .fill -32768
 m1:         .fill -1
 vp:         .fill 32767
-vetor:		.fill 98       
-			.fill 79
-			.fill 2
-			.fill 57
-			.fill 34
+vetor:	    .fill 98       
+	    .fill 79
+	    .fill 2
+	    .fill 57
+	    .fill 34
